@@ -1,0 +1,23 @@
+# Convenience exclusions; not a security boundary.
+private_results/
+private_data/
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sav
+*.parquet
+*.pkl
+*.pickle
+*.html
+*.pdf
+*.docx
+*.zip
+.env
+.env.*
+.ipynb_checkpoints/
+__pycache__/
+*PRIVATE*
+*private*
+*_clean.ipynb

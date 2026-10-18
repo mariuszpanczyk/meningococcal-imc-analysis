@@ -1,0 +1,56 @@
+{
+  "status": "DRAFT_AUTHOR_REVIEW_REQUIRED",
+  "software_title": "Immune-Mediated Complications in Children Hospitalized with Invasive Meningococcal Disease: A Retrospective Cohort Study, 2016–2026",
+  "manuscript_title": "Immune-Mediated Complications in Children Hospitalized with Invasive Meningococcal Disease: A Retrospective Cohort Study, 2016–2026",
+  "complete_author_list": [
+    {
+      "family-names": "Mańdziuk",
+      "given-names": "Joanna",
+      "affiliation": "Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw, Poland",
+      "email": "jmandziuk@wum.edu.pl"
+    },
+    {
+      "family-names": "Długosz",
+      "given-names": "Aleksandra",
+      "affiliation": "Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw, Poland"
+    },
+    {
+      "family-names": "Panczyk",
+      "given-names": "Mariusz",
+      "affiliation": "Faculty of Health Sciences, Medical University of Warsaw, Warsaw, Poland"
+    },
+    {
+      "family-names": "Kuch",
+      "given-names": "Alicja",
+      "affiliation": "National Reference Centre for Bacterial Meningitis (KOROUN), National Institute of Public Health – National Institute of Hygiene, Warsaw, Poland"
+    },
+    {
+      "family-names": "Kuchar",
+      "given-names": "Ernest",
+      "affiliation": "Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw, Poland"
+    },
+    {
+      "family-names": "Okarska-Napierała",
+      "given-names": "Magdalena",
+      "affiliation": "Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw, Poland"
+    }
+  ],
+  "approved_software_license": null,
+  "repository_url": null,
+  "version": "0.2.2",
+  "version_specific_doi": null,
+  "manuscript_doi": null,
+  "data_access_conditions": null,
+  "reason_for_data_restriction": null,
+  "author_reported_environment": {
+    "status": "author_reported_not_independently_verified_in_this_delivery",
+    "platform": "Google Colab",
+    "python": "3.13.16",
+    "packages": {
+      "pandas": "2.2.3",
+      "numpy": "2.1.3",
+      "scipy": "1.16.3",
+      "statsmodels": "0.15.0"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: Please cite this analytical software when using the code. The title identifies the associated
+  manuscript; no journal publication status or DOI is asserted.
+title: 'Immune-Mediated Complications in Children Hospitalized with Invasive Meningococcal Disease: A
+  Retrospective Cohort Study, 2016–2026'
+type: software
+version: 0.2.2
+authors:
+- &id001
+  family-names: Mańdziuk
+  given-names: Joanna
+  affiliation: Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw,
+    Poland
+  email: jmandziuk@wum.edu.pl
+- family-names: Długosz
+  given-names: Aleksandra
+  affiliation: Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw,
+    Poland
+- family-names: Panczyk
+  given-names: Mariusz
+  affiliation: Faculty of Health Sciences, Medical University of Warsaw, Warsaw, Poland
+- family-names: Kuch
+  given-names: Alicja
+  affiliation: National Reference Centre for Bacterial Meningitis (KOROUN), National Institute of Public
+    Health – National Institute of Hygiene, Warsaw, Poland
+- family-names: Kuchar
+  given-names: Ernest
+  affiliation: Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw,
+    Poland
+- family-names: Okarska-Napierała
+  given-names: Magdalena
+  affiliation: Department of Pediatrics with Clinical Assessment Unit, Medical University of Warsaw, Warsaw,
+    Poland
+contact:
+- *id001
+abstract: Analytical code accompanying the named retrospective cohort study. The full descriptive cohort
+  includes 53 children; the IMC analytical population includes 51 after exclusion of two deaths within
+  24 hours of admission. No participant-level data are included. See the validation report for reconstruction
+  provenance and limitations.
+keywords:
+- invasive meningococcal disease
+- immune-mediated complications
+- retrospective cohort
+- analysis code
